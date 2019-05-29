@@ -1,0 +1,58 @@
+# depslib dependency file v1.0
+1559129055 source:c:\users\gabriel marques\documents\ed2\pratica2_ed2\pratica2\hash.cpp
+	<iostream>
+	<stdio.h>
+	<string.h>
+	"hash.h"
+	"lista.h"
+
+1559129055 c:\users\gabriel marques\documents\ed2\pratica2_ed2\pratica2\hash.h
+
+1559129055 c:\users\gabriel marques\documents\ed2\pratica2_ed2\pratica2\lista.h
+
+1559129055 source:c:\users\gabriel marques\documents\ed2\pratica2_ed2\pratica2\lista.cpp
+	<iostream>
+	<fstream>
+	"lista.h"
+
+1559129055 source:c:\users\gabriel marques\documents\ed2\pratica2_ed2\pratica2\main.cpp
+	<iostream>
+	<fstream>
+	<stdio.h>
+	<string.h>
+	"lista.h"
+	"hash.h"
+
+1559136329 source:c:\users\gabriel marques\documents\ed2\pratica2ed2\pratica2\hash.cpp
+	<iostream>
+	<stdio.h>
+	<string.h>
+	"hash.h"
+	"lista.h"
+
+1559136329 c:\users\gabriel marques\documents\ed2\pratica2ed2\pratica2\hash.h
+
+1559136329 c:\users\gabriel marques\documents\ed2\pratica2ed2\pratica2\lista.h
+
+1559136329 source:c:\users\gabriel marques\documents\ed2\pratica2ed2\pratica2\lista.cpp
+	<iostream>
+	<fstream>
+	"lista.h"
+
+1559136329 source:c:\users\gabriel marques\documents\ed2\pratica2ed2\pratica2\main.cpp
+	<iostream>
+	<fstream>
+	<stdio.h>
+	<string.h>
+	"lista.h"
+	"hash.h"
+	"tree.h"
+
+1559136329 c:\users\gabriel marques\documents\ed2\pratica2ed2\pratica2\tree.h
+
+1559136329 source:c:\users\gabriel marques\documents\ed2\pratica2ed2\pratica2\tree.cpp
+	<iostream>
+	<stdlib.h>
+	"tree.h"
+	"lista.h"
+
